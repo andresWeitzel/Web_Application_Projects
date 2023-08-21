@@ -4,8 +4,7 @@
 <!------Portfolio Java------>  
 <div align="center">
 
-## <img width="38" height="38"   src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere02-unscreen.gif" /> Aplicaciones Web <img width="38" height="38"   src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere02-unscreen.gif" />
-
+## <img width="38" height="38"   src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere02-unscreen.gif" /> Aplicaciones Web
 </div>  
   
 </br>
