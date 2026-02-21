@@ -31,15 +31,15 @@
  ###  Stack implementado
   
  <div style="display: inline-block;">
-   <img width="40" height="40" src="./doc/assets/icons/frontend/svg/html.svg" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/css.svg" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/scss.svg" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/bootstrap.svg" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/angular.svg" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/angular-material.svg" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/highchart.svg" />
-   <img width="40" height="40" src="./doc/assets/icons/devops/svg/vsc.svg" />
-  <img width="44" height="44" src="./doc/assets/icons/devops/svg/git.svg" />
+   <img width="40" height="40" src="./doc/assets/icons/frontend/png/html.png" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/png/css.png" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/png/scss.png" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/png/bootstrap.png" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/png/angular.png" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/png/angular-material.png" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/png/highchart.png" />
+   <img width="40" height="40" src="./doc/assets/icons/devops/png/vsc.png" />
+  <img width="44" height="44" src="./doc/assets/icons/devops/png/git.png" />
  </div>
  </div>
  <!------Fin Portfolio Java------>  
@@ -75,13 +75,13 @@
  ###  Stack implementado
    
  <div style="display: inline-block;">
-   <img width="40" height="40" src="./doc/assets/icons/frontend/svg/html.svg" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/css.svg" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/scss.svg" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/bootstrap.svg" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/react-js.svg" />
-   <img width="40" height="40" src="./doc/assets/icons/devops/svg/vsc.svg" />
-  <img width="44" height="44" src="./doc/assets/icons/devops/svg/git.svg" />
+   <img width="40" height="40" src="./doc/assets/icons/frontend/png/html.png" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/png/css.png" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/png/scss.png" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/png/bootstrap.png" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/png/react-js.png" />
+   <img width="40" height="40" src="./doc/assets/icons/devops/png/vsc.png" />
+  <img width="44" height="44" src="./doc/assets/icons/devops/png/git.png" />
  </div>
  </div>
  <!------Fin Microfront GPT-J-6B------>  
@@ -118,22 +118,22 @@
 
  ###  Stack implementado
  <div style="display: inline-block;">
-   <img width="40" height="40" src="./doc/assets/icons/frontend/svg/html.svg" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/css.svg" />  
-  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/bootstrap.svg" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/js.svg" />
-     <img width="45" height="45" src="./doc/assets/icons/backend/java/svg/java.svg" />
-  <img width="40" height="38" src="./doc/assets/icons/backend/java/svg/spring-boot.svg" />
-  <img width="40" height="38" src="./doc/assets/icons/backend/java/svg/hibernate.svg" />
-   <img width="40" height="40" src="./doc/assets/icons/devops/svg/openapi.svg" />
-   <img width="40" height="40" src="./doc/assets/icons/devops/svg/postman.svg" />
-  <img width="45" height="44" src="./doc/assets/icons/devops/svg/maven.svg" />
-  <img width="47" height="50" src="./doc/assets/icons/backend/java/svg/lombok.svg" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/highchart.svg" />
-  <img width="44" height="44" src="./doc/assets/icons/backend/java/svg/sts.svg" />
-  <img width="44" height="44" src="./doc/assets/icons/devops/svg/git.svg" />
-   <img width="44" height="44" src="./doc/assets/icons/database/svg/sql-developer.svg" />
-  <img width="44" height="44" src="./doc/assets/icons/database/svg/oracle.svg" />
+   <img width="40" height="40" src="./doc/assets/icons/frontend/png/html.png" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/png/css.png" />  
+  <img width="40" height="40" src="./doc/assets/icons/frontend/png/bootstrap.png" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/png/js.png" />
+     <img width="45" height="45" src="./doc/assets/icons/backend/java/png/java.png" />
+  <img width="40" height="38" src="./doc/assets/icons/backend/java/png/spring-boot.png" />
+  <img width="40" height="38" src="./doc/assets/icons/backend/java/png/hibernate.png" />
+   <img width="40" height="40" src="./doc/assets/icons/devops/png/openapi.png" />
+   <img width="40" height="40" src="./doc/assets/icons/devops/png/postman.png" />
+  <img width="45" height="44" src="./doc/assets/icons/devops/png/maven.png" />
+  <img width="47" height="50" src="./doc/assets/icons/backend/java/png/lombok.png" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/png/highchart.png" />
+  <img width="44" height="44" src="./doc/assets/icons/backend/java/png/sts.png" />
+  <img width="44" height="44" src="./doc/assets/icons/devops/png/git.png" />
+   <img width="44" height="44" src="./doc/assets/icons/database/png/sql-developer.png" />
+  <img width="44" height="44" src="./doc/assets/icons/database/png/oracle.png" />
  </div>
  </div>
  
@@ -171,24 +171,24 @@
 
  ###  Stack implementado
  <div style="display: inline-block;">
-   <img width="40" height="40" src="./doc/assets/icons/frontend/svg/html.svg" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/css.svg" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/scss.svg" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/bootstrap.svg" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/js.svg" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/react-js.svg" />
-  <img width="45" height="45" src="./doc/assets/icons/backend/java/svg/java.svg" />
-  <img width="40" height="38" src="./doc/assets/icons/backend/java/svg/spring-boot.svg" />
-  <img width="40" height="38" src="./doc/assets/icons/backend/java/svg/hibernate.svg" />
-   <img width="40" height="40" src="./doc/assets/icons/devops/svg/openapi.svg" />
-   <img width="40" height="40" src="./doc/assets/icons/devops/svg/postman.svg" />
-  <img width="45" height="44" src="./doc/assets/icons/devops/svg/maven.svg" />
-  <img width="47" height="50" src="./doc/assets/icons/backend/java/svg/lombok.svg" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/highchart.svg" />
-  <img width="44" height="44" src="./doc/assets/icons/backend/java/svg/sts.svg" />
-  <img width="44" height="44" src="./doc/assets/icons/devops/svg/git.svg" />
-   <img width="44" height="44" src="./doc/assets/icons/database/svg/sql-developer.svg" />
-  <img width="44" height="44" src="./doc/assets/icons/database/svg/oracle.svg" />
+   <img width="40" height="40" src="./doc/assets/icons/frontend/png/html.png" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/png/css.png" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/png/scss.png" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/png/bootstrap.png" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/png/js.png" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/png/react-js.png" />
+  <img width="45" height="45" src="./doc/assets/icons/backend/java/png/java.png" />
+  <img width="40" height="38" src="./doc/assets/icons/backend/java/png/spring-boot.png" />
+  <img width="40" height="38" src="./doc/assets/icons/backend/java/png/hibernate.png" />
+   <img width="40" height="40" src="./doc/assets/icons/devops/png/openapi.png" />
+   <img width="40" height="40" src="./doc/assets/icons/devops/png/postman.png" />
+  <img width="45" height="44" src="./doc/assets/icons/devops/png/maven.png" />
+  <img width="47" height="50" src="./doc/assets/icons/backend/java/png/lombok.png" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/png/highchart.png" />
+  <img width="44" height="44" src="./doc/assets/icons/backend/java/png/sts.png" />
+  <img width="44" height="44" src="./doc/assets/icons/devops/png/git.png" />
+   <img width="44" height="44" src="./doc/assets/icons/database/png/sql-developer.png" />
+  <img width="44" height="44" src="./doc/assets/icons/database/png/oracle.png" />
  </div>
  </div>
  <!----- Fin Microfrontend micrelectronica React------> 
@@ -226,23 +226,23 @@
   
  ###  Stack implementado 
  <div style="display: inline-block;">
-   <img width="40" height="40" src="./doc/assets/icons/frontend/svg/html.svg" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/css.svg" />  
-  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/bootstrap.svg" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/angular.svg" />
-     <img width="45" height="45" src="./doc/assets/icons/backend/java/svg/java.svg" />
-  <img width="40" height="38" src="./doc/assets/icons/backend/java/svg/spring-boot.svg" />
-  <img width="40" height="38" src="./doc/assets/icons/backend/java/svg/hibernate.svg" />
-   <img width="40" height="40" src="./doc/assets/icons/devops/svg/openapi.svg" />
-   <img width="40" height="40" src="./doc/assets/icons/devops/svg/postman.svg" />
-    <img width="40" height="40" src="./doc/assets/icons/backend/java/svg/log-four-j.svg" />
-  <img width="45" height="44" src="./doc/assets/icons/devops/svg/maven.svg" />
-  <img width="47" height="50" src="./doc/assets/icons/backend/java/svg/lombok.svg" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/highchart.svg" />
-  <img width="44" height="44" src="./doc/assets/icons/backend/java/svg/sts.svg" />
-  <img width="44" height="44" src="./doc/assets/icons/devops/svg/git.svg" />
-   <img width="44" height="44" src="./doc/assets/icons/database/svg/postgres.svg" />
-   <img width="44" height="44" src="./doc/assets/icons/database/svg/pg-admin.svg" />
+   <img width="40" height="40" src="./doc/assets/icons/frontend/png/html.png" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/png/css.png" />  
+  <img width="40" height="40" src="./doc/assets/icons/frontend/png/bootstrap.png" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/png/angular.png" />
+     <img width="45" height="45" src="./doc/assets/icons/backend/java/png/java.png" />
+  <img width="40" height="38" src="./doc/assets/icons/backend/java/png/spring-boot.png" />
+  <img width="40" height="38" src="./doc/assets/icons/backend/java/png/hibernate.png" />
+   <img width="40" height="40" src="./doc/assets/icons/devops/png/openapi.png" />
+   <img width="40" height="40" src="./doc/assets/icons/devops/png/postman.png" />
+    <img width="40" height="40" src="./doc/assets/icons/backend/java/png/log-four-j.png" />
+  <img width="45" height="44" src="./doc/assets/icons/devops/png/maven.png" />
+  <img width="47" height="50" src="./doc/assets/icons/backend/java/png/lombok.png" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/png/highchart.png" />
+  <img width="44" height="44" src="./doc/assets/icons/backend/java/png/sts.png" />
+  <img width="44" height="44" src="./doc/assets/icons/devops/png/git.png" />
+   <img width="44" height="44" src="./doc/assets/icons/database/png/postgres.png" />
+   <img width="44" height="44" src="./doc/assets/icons/database/png/pg-admin.png" />
  </div>
  </div>
   
@@ -283,22 +283,22 @@
    
  ###  Stack implementado
  <div style="display: inline-block;">
-   <img width="40" height="40" src="./doc/assets/icons/frontend/svg/html.svg" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/css.svg" />  
-  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/bootstrap.svg" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/js.svg" />
-   <img width="45" height="45" src="./doc/assets/icons/backend/java/svg/java.svg" />
-  <img width="40" height="38" src="./doc/assets/icons/backend/java/svg/spring-boot.svg" />
-  <img width="40" height="38" src="./doc/assets/icons/backend/java/svg/hibernate.svg" />
-   <img width="40" height="40" src="./doc/assets/icons/devops/svg/openapi.svg" />
-   <img width="40" height="40" src="./doc/assets/icons/devops/svg/postman.svg" />
-  <img width="45" height="44" src="./doc/assets/icons/devops/svg/maven.svg" />
-  <img width="47" height="50" src="./doc/assets/icons/backend/java/svg/lombok.svg" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/highchart.svg" />
-  <img width="44" height="44" src="./doc/assets/icons/backend/java/svg/sts.svg" />
-  <img width="44" height="44" src="./doc/assets/icons/devops/svg/git.svg" />
-   <img width="44" height="44" src="./doc/assets/icons/database/svg/sql-developer.svg" />
-  <img width="44" height="44" src="./doc/assets/icons/database/svg/oracle.svg" />
+   <img width="40" height="40" src="./doc/assets/icons/frontend/png/html.png" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/png/css.png" />  
+  <img width="40" height="40" src="./doc/assets/icons/frontend/png/bootstrap.png" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/png/js.png" />
+   <img width="45" height="45" src="./doc/assets/icons/backend/java/png/java.png" />
+  <img width="40" height="38" src="./doc/assets/icons/backend/java/png/spring-boot.png" />
+  <img width="40" height="38" src="./doc/assets/icons/backend/java/png/hibernate.png" />
+   <img width="40" height="40" src="./doc/assets/icons/devops/png/openapi.png" />
+   <img width="40" height="40" src="./doc/assets/icons/devops/png/postman.png" />
+  <img width="45" height="44" src="./doc/assets/icons/devops/png/maven.png" />
+  <img width="47" height="50" src="./doc/assets/icons/backend/java/png/lombok.png" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/png/highchart.png" />
+  <img width="44" height="44" src="./doc/assets/icons/backend/java/png/sts.png" />
+  <img width="44" height="44" src="./doc/assets/icons/devops/png/git.png" />
+   <img width="44" height="44" src="./doc/assets/icons/database/png/sql-developer.png" />
+  <img width="44" height="44" src="./doc/assets/icons/database/png/oracle.png" />
  </div>
  </div>
   
@@ -332,17 +332,17 @@
   
  ###  Stack implementado
  <div style="display: inline-block;">
-    <img width="40" height="40" src="./doc/assets/icons/frontend/svg/html.svg" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/css.svg" />  
-  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/bootstrap.svg" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/angular.svg" />
-  <img width="40" height="40" src="./doc/assets/icons/backend/java/svg/java.svg" />
-  <img width="40" height="40" src="./doc/assets/icons/devops/svg/maven.svg" />
-  <img width="40" height="40" src="./doc/assets/icons/devops/svg/vsc.svg" />
-  <img width="40" height="40" src="./doc/assets/icons/backend/java/svg/netbeans.svg" />
-  <img width="40" height="40" src="./doc/assets/icons/database/svg/mysql.svg" />
+    <img width="40" height="40" src="./doc/assets/icons/frontend/png/html.png" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/png/css.png" />  
+  <img width="40" height="40" src="./doc/assets/icons/frontend/png/bootstrap.png" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/png/angular.png" />
+  <img width="40" height="40" src="./doc/assets/icons/backend/java/png/java.png" />
+  <img width="40" height="40" src="./doc/assets/icons/devops/png/maven.png" />
+  <img width="40" height="40" src="./doc/assets/icons/devops/png/vsc.png" />
+  <img width="40" height="40" src="./doc/assets/icons/backend/java/png/netbeans.png" />
+  <img width="40" height="40" src="./doc/assets/icons/database/png/mysql.png" />
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/xampp_94513.png" />
-  <img width="40" height="40" src="./doc/assets/icons/devops/svg/git.svg" />
+  <img width="40" height="40" src="./doc/assets/icons/devops/png/git.png" />
  </div>
  </div>
 
@@ -378,14 +378,14 @@
    
  ###  Stack implementado  
  <div style="display: inline-block;">
-   <img width="40" height="40" src="./doc/assets/icons/frontend/svg/html.svg" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/css.svg" />  
-  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/bootstrap.svg" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/angular.svg" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/js.svg" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/angular.svg" />
-  <img width="40" height="40" src="./doc/assets/icons/devops/svg/git.svg" />
-  <img width="40" height="40" src="./doc/assets/icons/devops/svg/vsc.svg" />
+   <img width="40" height="40" src="./doc/assets/icons/frontend/png/html.png" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/png/css.png" />  
+  <img width="40" height="40" src="./doc/assets/icons/frontend/png/bootstrap.png" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/png/angular.png" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/png/js.png" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/png/angular.png" />
+  <img width="40" height="40" src="./doc/assets/icons/devops/png/git.png" />
+  <img width="40" height="40" src="./doc/assets/icons/devops/png/vsc.png" />
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_netlify_icon_130354.png" />
  </div>
  </div>
