@@ -1,353 +1,227 @@
 
-<!--APLICACIONES WEB-->
+<div align="center">
+<img src="./doc/assets/img/web-app.jpg" >
+</div>
 
-<!------Portfolio Java------>  
+<br>
+
+<div align="right">
+    <a href="./translations/README.es.md" target="_blank">
+      <img src="./doc/assets/img/arg-flag.jpg" width="65" height="40" />
+    </a>
+    <a href="https://github.com/andresWeitzel/Web_Application_Projects" target="_blank">
+      <img src="./doc/assets/img/eeuu-flag.jpg" width="65" height="40" />
+    </a>
+</div>
+
 <div align="center">
 
-## <img width="38" height="38"   src="https://github.com/andresWeitzel/Graphics/blob/master/Gifs/spheres/sphere02-unscreen.gif" /> Aplicaciones Web
-</div>  
-  
-</br>
+## <img width="40" height="30" src="./doc/assets/gifs/web-app.gif" /> Web Applications
+
+</div>
+
+<br>
+
+Central repository for web application projects focused on frontend development, fullstack integrations, and micro-frontend architectures.
+
+<br>
+
+ * Languages : Java, JavaScript, HTML5, CSS3, SCSS, others.
+ * Frameworks : Angular, React, Spring Framework, Bootstrap, others.
+ * Spring modules : Spring Boot, Spring MVC, Spring Data JPA, Spring Security, SpringFox, others.
+ * ORM : JPA-Hibernate, others.
+ * Databases : Oracle, PostgreSQL, MySQL, others.
+ * Libraries : Lombok, Highcharts, GSAP, Angular Material, Log4j, others.
+ * Tools : STS, VSC, Netbeans, Postman, Maven, Swagger UI, Git, PgAdmin, SQL Developer, others.
+
+<br>
+
+<br>
+
+<!------Start Index----->
+
+## Index 📜
+
+<details>
+ <summary> See </summary>
+
+ <br>
+
+#### 🗂️ Projects
+
+* [Portfolio Software Developer](#portfolio-software-developer--)
+
+  <div align="left">
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/html.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/css.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/scss.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/bootstrap.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/angular.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/angular-material.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/highchart.png" />
+    <img width="20" height="20" src="doc/assets/icons/devops/png/vsc.png" />
+    <img width="20" height="20" src="doc/assets/icons/devops/png/git.png" />
+  </div>
+
+* [MicroFrontEnd IA NLP React](#microfrontend-ia-nlp-react--)
+
+  <div align="left">
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/html.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/css.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/scss.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/bootstrap.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/react-js.png" />
+    <img width="20" height="20" src="doc/assets/icons/devops/png/vsc.png" />
+    <img width="20" height="20" src="doc/assets/icons/devops/png/git.png" />
+  </div>
+
+* [Microelectronics Management SpringBoot](#microelectronics-management-springboot--)
+
+  <div align="left">
+    <img width="24" height="24" src="doc/assets/icons/backend/java/png/java.png" />
+    <img width="20" height="20" src="doc/assets/icons/backend/java/png/spring-boot.png" />
+    <img width="20" height="20" src="doc/assets/icons/backend/java/png/hibernate.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/html.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/css.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/bootstrap.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/js.png" />
+    <img width="20" height="20" src="doc/assets/icons/devops/png/maven.png" />
+    <img width="22" height="22" src="doc/assets/icons/devops/png/postman.png" />
+    <img width="20" height="20" src="doc/assets/icons/devops/png/git.png" />
+    <img width="20" height="20" src="doc/assets/icons/database/png/oracle.png" />
+  </div>
+
+* [MicroFrontEnd Microelectronics React](#microfrontend-microelectronics-react--)
+
+  <div align="left">
+    <img width="24" height="24" src="doc/assets/icons/backend/java/png/java.png" />
+    <img width="20" height="20" src="doc/assets/icons/backend/java/png/spring-boot.png" />
+    <img width="20" height="20" src="doc/assets/icons/backend/java/png/hibernate.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/html.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/css.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/scss.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/bootstrap.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/react-js.png" />
+    <img width="20" height="20" src="doc/assets/icons/devops/png/maven.png" />
+    <img width="22" height="22" src="doc/assets/icons/devops/png/postman.png" />
+    <img width="20" height="20" src="doc/assets/icons/devops/png/git.png" />
+    <img width="20" height="20" src="doc/assets/icons/database/png/oracle.png" />
+  </div>
+
+* [MicroFrontEnd Products SpringBoot PostgreSQL](#microfrontend-products-springboot-postgresql--)
+
+  <div align="left">
+    <img width="24" height="24" src="doc/assets/icons/backend/java/png/java.png" />
+    <img width="20" height="20" src="doc/assets/icons/backend/java/png/spring-boot.png" />
+    <img width="20" height="20" src="doc/assets/icons/backend/java/png/hibernate.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/html.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/css.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/bootstrap.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/angular.png" />
+    <img width="20" height="20" src="doc/assets/icons/devops/png/maven.png" />
+    <img width="22" height="22" src="doc/assets/icons/devops/png/postman.png" />
+    <img width="20" height="20" src="doc/assets/icons/devops/png/git.png" />
+    <img width="20" height="20" src="doc/assets/icons/database/png/postgres.png" />
+  </div>
+
+* [ElectroThings Angular SpringBoot](#electrothings-angular-springboot--)
+
+  <div align="left">
+    <img width="24" height="24" src="doc/assets/icons/backend/java/png/java.png" />
+    <img width="20" height="20" src="doc/assets/icons/backend/java/png/spring-boot.png" />
+    <img width="20" height="20" src="doc/assets/icons/backend/java/png/hibernate.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/html.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/css.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/bootstrap.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/js.png" />
+    <img width="20" height="20" src="doc/assets/icons/devops/png/maven.png" />
+    <img width="22" height="22" src="doc/assets/icons/devops/png/postman.png" />
+    <img width="20" height="20" src="doc/assets/icons/devops/png/git.png" />
+    <img width="20" height="20" src="doc/assets/icons/database/png/oracle.png" />
+  </div>
+
+* [IoT Products JSP](#iot-products-jsp--)
+
+  <div align="left">
+    <img width="24" height="24" src="doc/assets/icons/backend/java/png/java.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/html.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/css.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/bootstrap.png" />
+    <img width="20" height="20" src="doc/assets/icons/devops/png/maven.png" />
+    <img width="20" height="20" src="doc/assets/icons/devops/png/vsc.png" />
+    <img width="20" height="20" src="doc/assets/icons/backend/java/png/netbeans.png" />
+    <img width="20" height="20" src="doc/assets/icons/database/png/mysql.png" />
+    <img width="20" height="20" src="doc/assets/icons/devops/png/git.png" />
+  </div>
+
+* [Gender Violence Awareness Angular](#gender-violence-awareness-angular--)
+
+  <div align="left">
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/html.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/css.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/bootstrap.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/angular.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/js.png" />
+    <img width="20" height="20" src="doc/assets/icons/devops/png/vsc.png" />
+    <img width="20" height="20" src="doc/assets/icons/devops/png/git.png" />
+  </div>
+
+<br>
+
+</details>
+
+<!------Stop Index----->
+
+<br>
 
 <div align="center">
- 
- ### { Portfolio Desarrollo de Software implementando Angular, Angular Material, Bootstrap, Api Highcharts, Scss, GSAP, Animation, DialogFlow y Otras Tecnologías. }
- 
-  <a href="https://github.com/andresWeitzel/Portfolio_Software_Developer" target="_blank">
+
+## 🗂️ Projects
+
+</div>
+
+<br>
+
+
+<!------START Portfolio_Software_Developer------>
+
+<div align="center">
+
+### Portfolio Software Developer [🔝](#index-)
+
+<a href="https://github.com/andresWeitzel/Portfolio_Software_Developer" target="_blank">
   <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/Portafolio/Captura%20de%20pantalla%20(926).png" >
-  </a>  
-
-  ###  [[Repositorio]](https://github.com/andresWeitzel/Portfolio_Software_Developer) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurCQxO9rYKlL2E3bZWTLC_Kr)
-      
- <div style="display: inline-block;"> 
-  <a href="https://github.com/andresWeitzel/Portfolio_Software_Developer" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
-  </a>
-   <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurCQxO9rYKlL2E3bZWTLC_Kr" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
-  </a>
- </div>
-   
- ###  Stack implementado
-  
- <div style="display: inline-block;">
-   <img width="40" height="40" src="./doc/assets/icons/frontend/png/html.png" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/png/css.png" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/png/scss.png" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/png/bootstrap.png" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/png/angular.png" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/png/angular-material.png" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/png/highchart.png" />
-   <img width="40" height="40" src="./doc/assets/icons/devops/png/vsc.png" />
-  <img width="44" height="44" src="./doc/assets/icons/devops/png/git.png" />
- </div>
- </div>
- <!------Fin Portfolio Java------>  
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
- 
-<!------Microfront GPT-J-6B------>  
-<div align="center">
- 
- ### { MicroFrontEnd y Módulo npm para la implementación de Modelos de IA de Procesamiento de Lenguaje Natural (GPT-J-6B , GPT-3 , Otros).  }
-  
-  <a href="https://github.com/andresWeitzel/Microfront_IA-NLP_React" target="_blank">
-  <img src="https://github.com/andresWeitzel/Microfront_IA-NLP_React/blob/master/doc/inicio01.png" >
-  </a> 
-
- ###  [[Repositorio]](https://github.com/andresWeitzel/Microfront_IA-NLP_React) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurBBWHg1pGL47Ok2Iy-AZPYB)
-
- <div style="display: inline-block;"> 
-  <a href="https://github.com/andresWeitzel/Microfront_IA-NLP_React" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
-  </a>
-   <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurBBWHg1pGL47Ok2Iy-AZPYB" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
-  </a>
- </div>
-   
- ###  Stack implementado
-   
- <div style="display: inline-block;">
-   <img width="40" height="40" src="./doc/assets/icons/frontend/png/html.png" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/png/css.png" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/png/scss.png" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/png/bootstrap.png" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/png/react-js.png" />
-   <img width="40" height="40" src="./doc/assets/icons/devops/png/vsc.png" />
-  <img width="44" height="44" src="./doc/assets/icons/devops/png/git.png" />
- </div>
- </div>
- <!------Fin Microfront GPT-J-6B------>  
-
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-<!------Gestion micrelectronica spring------> 
-<div align="center">
- 
- ### { Aplicación Web para la Gestión de Productos de Microelectrónica implementando Spring Boot, Maven, Lombok, Thymeleaf, Bootstrap, Js, Api Highcharts, Open-Api-v3.0, Oracle y Otras Tecnologías. }
- 
-  <a href="https://github.com/andresWeitzel/AppGestionMicroelectronica_SpringBoot" target="_blank">
-  <img src="https://github.com/andresWeitzel/AppGestionMicroelectronica_SpringBoot/blob/master/doc/inicio/inicioComponentes.png" >
-  </a> 
-
-   ###  [[Repositorio]](https://github.com/andresWeitzel/AppGestionMicroelectronica_SpringBoot) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurAhsy9K0G0TIBmiSSqP_lN3)
-  
- <div style="display: inline-block;"> 
-  <a href="https://github.com/andresWeitzel/AppGestionMicroelectronica_SpringBoot" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
-  </a>
-   <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurAhsy9K0G0TIBmiSSqP_lN3" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
-  </a>
- </div>
-
- ###  Stack implementado
- <div style="display: inline-block;">
-   <img width="40" height="40" src="./doc/assets/icons/frontend/png/html.png" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/png/css.png" />  
-  <img width="40" height="40" src="./doc/assets/icons/frontend/png/bootstrap.png" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/png/js.png" />
-     <img width="45" height="45" src="./doc/assets/icons/backend/java/png/java.png" />
-  <img width="40" height="38" src="./doc/assets/icons/backend/java/png/spring-boot.png" />
-  <img width="40" height="38" src="./doc/assets/icons/backend/java/png/hibernate.png" />
-   <img width="40" height="40" src="./doc/assets/icons/devops/png/openapi.png" />
-   <img width="40" height="40" src="./doc/assets/icons/devops/png/postman.png" />
-  <img width="45" height="44" src="./doc/assets/icons/devops/png/maven.png" />
-  <img width="47" height="50" src="./doc/assets/icons/backend/java/png/lombok.png" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/png/highchart.png" />
-  <img width="44" height="44" src="./doc/assets/icons/backend/java/png/sts.png" />
-  <img width="44" height="44" src="./doc/assets/icons/devops/png/git.png" />
-   <img width="44" height="44" src="./doc/assets/icons/database/png/sql-developer.png" />
-  <img width="44" height="44" src="./doc/assets/icons/database/png/oracle.png" />
- </div>
- </div>
- 
- <!------Fin Gestion micrelectronica spring------> 
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
- <!----- Microfrontend micrelectronica React------> 
- 
-<div align="center">
-
- ### { Aplicación Web MicroFrontEnd Microelectrónica implementando React, Html5, Scss, Highcharts, Bootstrap, Spring Boot, Spring MVC, Spring Data JPA, SpringFox, Swagger UI, Maven, Lombok, Postman, Log4j, Git, SQLDeveloper, Oracle XE 21c y Otras Tecnologías. }
-
-  <a href="https://github.com/andresWeitzel/App_MicroFrontEnd_MicroElectr_React" target="_blank">
-  <img src="https://github.com/andresWeitzel/App_MicroFrontEnd_MicroElectr_React/blob/master/doc/Captura%20de%20pantalla%20(901).png" >
-  </a>  
-
-  ###  [[Repositorio]](https://github.com/andresWeitzel/App_MicroFrontEnd_MicroElectr_React) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurDLgSaycW__gUQwS3vOBZLD)
-   
- <div style="display: inline-block;"> 
-   <div>
-  <a href="https://github.com/andresWeitzel/App_MicroFrontEnd_MicroElectr_React" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
-  </a>
-   <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurDLgSaycW__gUQwS3vOBZLD" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
-  </a>
- </div>
-
- ###  Stack implementado
- <div style="display: inline-block;">
-   <img width="40" height="40" src="./doc/assets/icons/frontend/png/html.png" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/png/css.png" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/png/scss.png" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/png/bootstrap.png" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/png/js.png" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/png/react-js.png" />
-  <img width="45" height="45" src="./doc/assets/icons/backend/java/png/java.png" />
-  <img width="40" height="38" src="./doc/assets/icons/backend/java/png/spring-boot.png" />
-  <img width="40" height="38" src="./doc/assets/icons/backend/java/png/hibernate.png" />
-   <img width="40" height="40" src="./doc/assets/icons/devops/png/openapi.png" />
-   <img width="40" height="40" src="./doc/assets/icons/devops/png/postman.png" />
-  <img width="45" height="44" src="./doc/assets/icons/devops/png/maven.png" />
-  <img width="47" height="50" src="./doc/assets/icons/backend/java/png/lombok.png" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/png/highchart.png" />
-  <img width="44" height="44" src="./doc/assets/icons/backend/java/png/sts.png" />
-  <img width="44" height="44" src="./doc/assets/icons/devops/png/git.png" />
-   <img width="44" height="44" src="./doc/assets/icons/database/png/sql-developer.png" />
-  <img width="44" height="44" src="./doc/assets/icons/database/png/oracle.png" />
- </div>
- </div>
- <!----- Fin Microfrontend micrelectronica React------> 
-
-  
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-  
-
-<!----- Microfrontend Productos de Supermercado------> 
-<div align="center">
-
- ### { MicroFrontEnd acerca de Productos de Supermercado implementando Spring Boot, Spring Security, JWT, Angular, Maven, Lombok, Bootstrap, Api Highcharts, Open-Api-v3.0, PostgreSQL y Otras Tecnologías. }
- 
-  <a href="https://github.com/andresWeitzel/App_MicroFrontEnd_Productos_SpringBoot_SpringSecurity_PostgreSQL" target="_blank">
-  <img src="https://github.com/andresWeitzel/App_MicroFrontEnd_Productos_SpringBoot_SpringSecurity_PostgreSQL/blob/master/doc/list-products/listProducts.png" >
-  </a>  
-
-  ###  [[Repositorio]](https://github.com/andresWeitzel/App_MicroFrontEnd_Productos_SpringBoot_SpringSecurity_PostgreSQL) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurBcKBhduZ4suiDSMbyyBqCO)
-    
- <div style="display: inline-block;"> 
-   <div>
-  <a href="https://github.com/andresWeitzel/App_MicroFrontEnd_Productos_SpringBoot_SpringSecurity_PostgreSQL" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
-  </a>
-    <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurBcKBhduZ4suiDSMbyyBqCO" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
-  </a>
- </div>
-  
-  
- ###  Stack implementado 
- <div style="display: inline-block;">
-   <img width="40" height="40" src="./doc/assets/icons/frontend/png/html.png" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/png/css.png" />  
-  <img width="40" height="40" src="./doc/assets/icons/frontend/png/bootstrap.png" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/png/angular.png" />
-     <img width="45" height="45" src="./doc/assets/icons/backend/java/png/java.png" />
-  <img width="40" height="38" src="./doc/assets/icons/backend/java/png/spring-boot.png" />
-  <img width="40" height="38" src="./doc/assets/icons/backend/java/png/hibernate.png" />
-   <img width="40" height="40" src="./doc/assets/icons/devops/png/openapi.png" />
-   <img width="40" height="40" src="./doc/assets/icons/devops/png/postman.png" />
-    <img width="40" height="40" src="./doc/assets/icons/backend/java/png/log-four-j.png" />
-  <img width="45" height="44" src="./doc/assets/icons/devops/png/maven.png" />
-  <img width="47" height="50" src="./doc/assets/icons/backend/java/png/lombok.png" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/png/highchart.png" />
-  <img width="44" height="44" src="./doc/assets/icons/backend/java/png/sts.png" />
-  <img width="44" height="44" src="./doc/assets/icons/devops/png/git.png" />
-   <img width="44" height="44" src="./doc/assets/icons/database/png/postgres.png" />
-   <img width="44" height="44" src="./doc/assets/icons/database/png/pg-admin.png" />
- </div>
- </div>
-  
-  <!----- FIN Microfrontend Productos de Supermercado------> 
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-  
-  
-<!----- Aplicación Web ElectroThings------> 
-  
-<div align="center">
-
- ### { Aplicación Web ElectroThings acerca de Productos de Electrónicos Generales aplicando HTML5, CSS3, SCSS, Angular, Bootstrap, Highchart, Spring-Boot, Spring Security, Spring MVC, Microservicios, SpringFox, Swagger UI, Git, DBeaver, PgAdmin, PostgreSQL y Otras Tecnologías. }
-  
- <a href="https://github.com/andresWeitzel/AppElectroThings_Angular_Bootstrap_SpringBoot_MongoDB" target="_blank">
-  <img src="https://github.com/andresWeitzel/AppElectroThings_Angular_Bootstrap_SpringBoot_MongoDB/blob/master/doc/listado/listado01.png" >
-  </a> 
-
-  
-  ###  [[Repositorio]](https://github.com/andresWeitzel/AppElectroThings_Angular_Bootstrap_SpringBoot_MongoDB) [|]() [[PlayList]](https://www.youtube.com/playlist?list=PLCl11UFjHurAg4I2Sv8Q7rpkNUTk5fQQy)
-    
- <div style="display: inline-block;"> 
-   <div>
-  <a href="https://github.com/andresWeitzel/AppElectroThings_Angular_Bootstrap_SpringBoot_MongoDB" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
-  </a>
-   <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurAg4I2Sv8Q7rpkNUTk5fQQy" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/youtubeLogo.gif" />
-  </a>
- </div>
-
-   
- ###  Stack implementado
- <div style="display: inline-block;">
-   <img width="40" height="40" src="./doc/assets/icons/frontend/png/html.png" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/png/css.png" />  
-  <img width="40" height="40" src="./doc/assets/icons/frontend/png/bootstrap.png" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/png/js.png" />
-   <img width="45" height="45" src="./doc/assets/icons/backend/java/png/java.png" />
-  <img width="40" height="38" src="./doc/assets/icons/backend/java/png/spring-boot.png" />
-  <img width="40" height="38" src="./doc/assets/icons/backend/java/png/hibernate.png" />
-   <img width="40" height="40" src="./doc/assets/icons/devops/png/openapi.png" />
-   <img width="40" height="40" src="./doc/assets/icons/devops/png/postman.png" />
-  <img width="45" height="44" src="./doc/assets/icons/devops/png/maven.png" />
-  <img width="47" height="50" src="./doc/assets/icons/backend/java/png/lombok.png" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/png/highchart.png" />
-  <img width="44" height="44" src="./doc/assets/icons/backend/java/png/sts.png" />
-  <img width="44" height="44" src="./doc/assets/icons/devops/png/git.png" />
-   <img width="44" height="44" src="./doc/assets/icons/database/png/sql-developer.png" />
-  <img width="44" height="44" src="./doc/assets/icons/database/png/oracle.png" />
- </div>
- </div>
-  
-  <!----- FIN Aplicación Web ElectroThings------> 
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<!----- Aplicación Web Productos IOT------> 
-
-<div align="center">
-
- ### { Aplicación Web para la Gestión de Productos IOT desarrollado con Java 8 EE, Maven, JSP, Servlets, BootstrapV4.6 y Otras Tecnologías. }
- 
-<a href="https://github.com/andresWeitzel/IotProductosJsp_app" target="_blank">  
- <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/main/Proyectos/IotProductosJsp_app/Captura%20de%20pantalla%20(317).png" >
 </a>
- 
-   ###  [[Repositorio]](https://github.com/andresWeitzel/IotProductosJsp_app)
-  
- <div style="display: inline-block;"> 
-   <div>
-  <a href="https://github.com/andresWeitzel/IotProductosJsp_app" target="_blank">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+
+  <div align="right">
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/html.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/css.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/scss.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/bootstrap.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/angular.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/angular-material.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/highchart.png" />
+    <img width="20" height="20" src="doc/assets/icons/devops/png/vsc.png" />
+    <img width="22" height="22" src="doc/assets/icons/devops/png/git.png" />
+  </div>
+
+<br>
+
+### Details
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
+  <a href="https://github.com/andresWeitzel/Portfolio_Software_Developer" target="_blank">
+    <img width="60" height="60" alt="code" src="./doc/assets/gifs/social-networks/github.gif" style="display: inline-block;" />
   </a>
- </div>
-  
- ###  Stack implementado
- <div style="display: inline-block;">
-    <img width="40" height="40" src="./doc/assets/icons/frontend/png/html.png" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/png/css.png" />  
-  <img width="40" height="40" src="./doc/assets/icons/frontend/png/bootstrap.png" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/png/angular.png" />
-  <img width="40" height="40" src="./doc/assets/icons/backend/java/png/java.png" />
-  <img width="40" height="40" src="./doc/assets/icons/devops/png/maven.png" />
-  <img width="40" height="40" src="./doc/assets/icons/devops/png/vsc.png" />
-  <img width="40" height="40" src="./doc/assets/icons/backend/java/png/netbeans.png" />
-  <img width="40" height="40" src="./doc/assets/icons/database/png/mysql.png" />
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/xampp_94513.png" />
-  <img width="40" height="40" src="./doc/assets/icons/devops/png/git.png" />
- </div>
- </div>
+  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurCQxO9rYKlL2E3bZWTLC_Kr" target="_blank">
+    <img width="60" height="60" alt="playlist" src="./doc/assets/gifs/social-networks/youtubeLogo.gif" style="display: inline-block;" />
+  </a>
+</div>
 
- <!----- FIN Aplicación Web Productos IOT------> 
- 
+</div>
+
+<!------END Portfolio_Software_Developer------->
+
 
 <br>
 <br>
@@ -357,39 +231,359 @@
 <br>
 
 
- <!----- FIN Aplicación Web Violenc. de género------> 
+<!------START Microfront_IA-NLP_React------>
 
 <div align="center">
 
- ### { Aplicación Web sobre Violencia de Género, Discriminación, etc desarrollado con Angular12, Boostrapv4.6, HTML5, CSS3 y Otras Tecnologías }
+### MicroFrontEnd IA NLP React [🔝](#index-)
 
-<a href="https://github.com/andresWeitzel/WebAppAngularBootstrap" target="_blank">  
+<a href="https://github.com/andresWeitzel/Microfront_IA-NLP_React" target="_blank">
+  <img src="https://github.com/andresWeitzel/Microfront_IA-NLP_React/blob/master/doc/inicio01.png" >
+</a>
+
+  <div align="right">
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/html.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/css.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/scss.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/bootstrap.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/react-js.png" />
+    <img width="20" height="20" src="doc/assets/icons/devops/png/vsc.png" />
+    <img width="22" height="22" src="doc/assets/icons/devops/png/git.png" />
+  </div>
+
+<br>
+
+### Details
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
+  <a href="https://github.com/andresWeitzel/Microfront_IA-NLP_React" target="_blank">
+    <img width="60" height="60" alt="code" src="./doc/assets/gifs/social-networks/github.gif" style="display: inline-block;" />
+  </a>
+  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurBBWHg1pGL47Ok2Iy-AZPYB" target="_blank">
+    <img width="60" height="60" alt="playlist" src="./doc/assets/gifs/social-networks/youtubeLogo.gif" style="display: inline-block;" />
+  </a>
+</div>
+
+</div>
+
+<!------END Microfront_IA-NLP_React------->
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+<!------START AppGestionMicroelectronica_SpringBoot------>
+
+<div align="center">
+
+### Microelectronics Management SpringBoot [🔝](#index-)
+
+<a href="https://github.com/andresWeitzel/AppGestionMicroelectronica_SpringBoot" target="_blank">
+  <img src="https://github.com/andresWeitzel/AppGestionMicroelectronica_SpringBoot/blob/master/doc/inicio/inicioComponentes.png" >
+</a>
+
+  <div align="right">
+    <img width="24" height="24" src="doc/assets/icons/backend/java/png/java.png" />
+    <img width="20" height="20" src="doc/assets/icons/backend/java/png/spring-boot.png" />
+    <img width="20" height="20" src="doc/assets/icons/backend/java/png/hibernate.png" />
+    <img width="20" height="20" src="doc/assets/icons/backend/java/png/lombok.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/html.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/css.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/bootstrap.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/js.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/highchart.png" />
+    <img width="20" height="20" src="doc/assets/icons/devops/png/openapi.png" />
+    <img width="22" height="22" src="doc/assets/icons/devops/png/postman.png" />
+    <img width="20" height="20" src="doc/assets/icons/devops/png/maven.png" />
+    <img width="20" height="20" src="doc/assets/icons/backend/java/png/sts.png" />
+    <img width="22" height="22" src="doc/assets/icons/devops/png/git.png" />
+    <img width="20" height="20" src="doc/assets/icons/database/png/sql-developer.png" />
+    <img width="20" height="20" src="doc/assets/icons/database/png/oracle.png" />
+  </div>
+
+<br>
+
+### Details
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
+  <a href="https://github.com/andresWeitzel/AppGestionMicroelectronica_SpringBoot" target="_blank">
+    <img width="60" height="60" alt="code" src="./doc/assets/gifs/social-networks/github.gif" style="display: inline-block;" />
+  </a>
+  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurAhsy9K0G0TIBmiSSqP_lN3" target="_blank">
+    <img width="60" height="60" alt="playlist" src="./doc/assets/gifs/social-networks/youtubeLogo.gif" style="display: inline-block;" />
+  </a>
+</div>
+
+</div>
+
+<!------END AppGestionMicroelectronica_SpringBoot------->
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+<!------START App_MicroFrontEnd_MicroElectr_React------>
+
+<div align="center">
+
+### MicroFrontEnd Microelectronics React [🔝](#index-)
+
+<a href="https://github.com/andresWeitzel/App_MicroFrontEnd_MicroElectr_React" target="_blank">
+  <img src="https://github.com/andresWeitzel/App_MicroFrontEnd_MicroElectr_React/blob/master/doc/Captura%20de%20pantalla%20(901).png" >
+</a>
+
+  <div align="right">
+    <img width="24" height="24" src="doc/assets/icons/backend/java/png/java.png" />
+    <img width="20" height="20" src="doc/assets/icons/backend/java/png/spring-boot.png" />
+    <img width="20" height="20" src="doc/assets/icons/backend/java/png/hibernate.png" />
+    <img width="20" height="20" src="doc/assets/icons/backend/java/png/lombok.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/html.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/css.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/scss.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/bootstrap.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/js.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/react-js.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/highchart.png" />
+    <img width="20" height="20" src="doc/assets/icons/devops/png/openapi.png" />
+    <img width="22" height="22" src="doc/assets/icons/devops/png/postman.png" />
+    <img width="20" height="20" src="doc/assets/icons/devops/png/maven.png" />
+    <img width="20" height="20" src="doc/assets/icons/backend/java/png/sts.png" />
+    <img width="22" height="22" src="doc/assets/icons/devops/png/git.png" />
+    <img width="20" height="20" src="doc/assets/icons/database/png/sql-developer.png" />
+    <img width="20" height="20" src="doc/assets/icons/database/png/oracle.png" />
+  </div>
+
+<br>
+
+### Details
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
+  <a href="https://github.com/andresWeitzel/App_MicroFrontEnd_MicroElectr_React" target="_blank">
+    <img width="60" height="60" alt="code" src="./doc/assets/gifs/social-networks/github.gif" style="display: inline-block;" />
+  </a>
+  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurDLgSaycW__gUQwS3vOBZLD" target="_blank">
+    <img width="60" height="60" alt="playlist" src="./doc/assets/gifs/social-networks/youtubeLogo.gif" style="display: inline-block;" />
+  </a>
+</div>
+
+</div>
+
+<!------END App_MicroFrontEnd_MicroElectr_React------->
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+<!------START App_MicroFrontEnd_Productos_SpringBoot_SpringSecurity_PostgreSQL------>
+
+<div align="center">
+
+### MicroFrontEnd Products SpringBoot PostgreSQL [🔝](#index-)
+
+<a href="https://github.com/andresWeitzel/App_MicroFrontEnd_Productos_SpringBoot_SpringSecurity_PostgreSQL" target="_blank">
+  <img src="https://github.com/andresWeitzel/App_MicroFrontEnd_Productos_SpringBoot_SpringSecurity_PostgreSQL/blob/master/doc/list-products/listProducts.png" >
+</a>
+
+  <div align="right">
+    <img width="24" height="24" src="doc/assets/icons/backend/java/png/java.png" />
+    <img width="20" height="20" src="doc/assets/icons/backend/java/png/spring-boot.png" />
+    <img width="20" height="20" src="doc/assets/icons/backend/java/png/hibernate.png" />
+    <img width="20" height="20" src="doc/assets/icons/backend/java/png/lombok.png" />
+    <img width="20" height="20" src="doc/assets/icons/backend/java/png/log-four-j.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/html.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/css.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/bootstrap.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/angular.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/highchart.png" />
+    <img width="20" height="20" src="doc/assets/icons/devops/png/openapi.png" />
+    <img width="22" height="22" src="doc/assets/icons/devops/png/postman.png" />
+    <img width="20" height="20" src="doc/assets/icons/devops/png/maven.png" />
+    <img width="20" height="20" src="doc/assets/icons/backend/java/png/sts.png" />
+    <img width="22" height="22" src="doc/assets/icons/devops/png/git.png" />
+    <img width="20" height="20" src="doc/assets/icons/database/png/postgres.png" />
+    <img width="20" height="20" src="doc/assets/icons/database/png/pg-admin.png" />
+  </div>
+
+<br>
+
+### Details
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
+  <a href="https://github.com/andresWeitzel/App_MicroFrontEnd_Productos_SpringBoot_SpringSecurity_PostgreSQL" target="_blank">
+    <img width="60" height="60" alt="code" src="./doc/assets/gifs/social-networks/github.gif" style="display: inline-block;" />
+  </a>
+  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurBcKBhduZ4suiDSMbyyBqCO" target="_blank">
+    <img width="60" height="60" alt="playlist" src="./doc/assets/gifs/social-networks/youtubeLogo.gif" style="display: inline-block;" />
+  </a>
+</div>
+
+</div>
+
+<!------END App_MicroFrontEnd_Productos_SpringBoot_SpringSecurity_PostgreSQL------->
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+<!------START AppElectroThings_Angular_Bootstrap_SpringBoot_MongoDB------>
+
+<div align="center">
+
+### ElectroThings Angular SpringBoot [🔝](#index-)
+
+<a href="https://github.com/andresWeitzel/AppElectroThings_Angular_Bootstrap_SpringBoot_MongoDB" target="_blank">
+  <img src="https://github.com/andresWeitzel/AppElectroThings_Angular_Bootstrap_SpringBoot_MongoDB/blob/master/doc/listado/listado01.png" >
+</a>
+
+  <div align="right">
+    <img width="24" height="24" src="doc/assets/icons/backend/java/png/java.png" />
+    <img width="20" height="20" src="doc/assets/icons/backend/java/png/spring-boot.png" />
+    <img width="20" height="20" src="doc/assets/icons/backend/java/png/hibernate.png" />
+    <img width="20" height="20" src="doc/assets/icons/backend/java/png/lombok.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/html.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/css.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/bootstrap.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/js.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/highchart.png" />
+    <img width="20" height="20" src="doc/assets/icons/devops/png/openapi.png" />
+    <img width="22" height="22" src="doc/assets/icons/devops/png/postman.png" />
+    <img width="20" height="20" src="doc/assets/icons/devops/png/maven.png" />
+    <img width="20" height="20" src="doc/assets/icons/backend/java/png/sts.png" />
+    <img width="22" height="22" src="doc/assets/icons/devops/png/git.png" />
+    <img width="20" height="20" src="doc/assets/icons/database/png/sql-developer.png" />
+    <img width="20" height="20" src="doc/assets/icons/database/png/oracle.png" />
+  </div>
+
+<br>
+
+### Details
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
+  <a href="https://github.com/andresWeitzel/AppElectroThings_Angular_Bootstrap_SpringBoot_MongoDB" target="_blank">
+    <img width="60" height="60" alt="code" src="./doc/assets/gifs/social-networks/github.gif" style="display: inline-block;" />
+  </a>
+  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurAg4I2Sv8Q7rpkNUTk5fQQy" target="_blank">
+    <img width="60" height="60" alt="playlist" src="./doc/assets/gifs/social-networks/youtubeLogo.gif" style="display: inline-block;" />
+  </a>
+</div>
+
+</div>
+
+<!------END AppElectroThings_Angular_Bootstrap_SpringBoot_MongoDB------->
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+<!------START IotProductosJsp_app------>
+
+<div align="center">
+
+### IoT Products JSP [🔝](#index-)
+
+<a href="https://github.com/andresWeitzel/IotProductosJsp_app" target="_blank">
+  <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/main/Proyectos/IotProductosJsp_app/Captura%20de%20pantalla%20(317).png" >
+</a>
+
+  <div align="right">
+    <img width="24" height="24" src="doc/assets/icons/backend/java/png/java.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/html.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/css.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/bootstrap.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/angular.png" />
+    <img width="20" height="20" src="doc/assets/icons/devops/png/maven.png" />
+    <img width="20" height="20" src="doc/assets/icons/devops/png/vsc.png" />
+    <img width="20" height="20" src="doc/assets/icons/backend/java/png/netbeans.png" />
+    <img width="20" height="20" src="doc/assets/icons/database/png/mysql.png" />
+    <img width="22" height="22" src="doc/assets/icons/devops/png/git.png" />
+  </div>
+
+<br>
+
+### Details
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
+  <a href="https://github.com/andresWeitzel/IotProductosJsp_app" target="_blank">
+    <img width="60" height="60" alt="code" src="./doc/assets/gifs/social-networks/github.gif" style="display: inline-block;" />
+  </a>
+</div>
+
+</div>
+
+<!------END IotProductosJsp_app------->
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+<!------START WebAppAngularBootstrap------>
+
+<div align="center">
+
+### Gender Violence Awareness Angular [🔝](#index-)
+
+<a href="https://github.com/andresWeitzel/WebAppAngularBootstrap" target="_blank">
   <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/main/Proyectos/DenunciasOnlineAngular_app/Captura%20de%20pantalla%20(320).png" >
 </a>
-     
-###  [[Repositorio]](https://github.com/andresWeitzel/WebAppAngularBootstrap)
- 
- <div style="display: inline-block;"> 
-   <div>
-  <a href="https://github.com/andresWeitzel/WebAppAngularBootstrap">
-    <img width="60" height="60" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/redes/github.gif" />
+
+  <div align="right">
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/html.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/css.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/bootstrap.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/angular.png" />
+    <img width="20" height="20" src="doc/assets/icons/frontend/png/js.png" />
+    <img width="20" height="20" src="doc/assets/icons/devops/png/vsc.png" />
+    <img width="22" height="22" src="doc/assets/icons/devops/png/git.png" />
+  </div>
+
+<br>
+
+### Details
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
+  <a href="https://github.com/andresWeitzel/WebAppAngularBootstrap" target="_blank">
+    <img width="60" height="60" alt="code" src="./doc/assets/gifs/social-networks/github.gif" style="display: inline-block;" />
   </a>
- </div>
-   
- ###  Stack implementado  
- <div style="display: inline-block;">
-   <img width="40" height="40" src="./doc/assets/icons/frontend/png/html.png" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/png/css.png" />  
-  <img width="40" height="40" src="./doc/assets/icons/frontend/png/bootstrap.png" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/png/angular.png" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/png/js.png" />
-  <img width="40" height="40" src="./doc/assets/icons/frontend/png/angular.png" />
-  <img width="40" height="40" src="./doc/assets/icons/devops/png/git.png" />
-  <img width="40" height="40" src="./doc/assets/icons/devops/png/vsc.png" />
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_netlify_icon_130354.png" />
- </div>
- </div>
+</div>
 
- <!----- FIN Aplicación Web Violenc. de género------> 
+</div>
 
-<!--FIN APLICACIONES WEB-->
+<!------END WebAppAngularBootstrap------->
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
