@@ -108,7 +108,7 @@ Central repository for web application projects focused on frontend development,
     <img width="20" height="20" src="doc/assets/icons/database/png/oracle.png" />
   </div>
 
-* [MicroFrontEnd Products SpringBoot PostgreSQL](#microfrontend-products-springboot-postgresql--)
+* [Micro FrontEnd App for Supermarket Products](#micro-frontend-app-for-supermarket-products--)
 
   <div align="left">
     <img width="24" height="24" src="doc/assets/icons/backend/java/png/java.png" />
@@ -389,11 +389,11 @@ Central repository for web application projects focused on frontend development,
 <br>
 
 
-<!------START App_MicroFrontEnd_Productos_SpringBoot_SpringSecurity_PostgreSQL------>
+<!------START Micro FrontEnd App for Supermarket Products------>
 
 <div align="center">
 
-### MicroFrontEnd Products SpringBoot PostgreSQL [🔝](#index-)
+### Micro FrontEnd App for Supermarket Products [🔝](#index-)
 
 <a href="https://github.com/andresWeitzel/App_MicroFrontEnd_Productos_SpringBoot_SpringSecurity_PostgreSQL" target="_blank">
   <img src="https://github.com/andresWeitzel/App_MicroFrontEnd_Productos_SpringBoot_SpringSecurity_PostgreSQL/blob/master/doc/list-products/listProducts.png" >
@@ -434,7 +434,7 @@ Central repository for web application projects focused on frontend development,
 
 </div>
 
-<!------END App_MicroFrontEnd_Productos_SpringBoot_SpringSecurity_PostgreSQL------->
+<!------END Micro FrontEnd App for Supermarket Products------->
 
 
 <br>
