@@ -63,7 +63,7 @@ Central repository for web application projects focused on frontend development,
     <img width="20" height="20" src="doc/assets/icons/devops/png/git.png" />
   </div>
 
-* [MicroFrontEnd IA NLP React](#microfrontend-ia-nlp-react-)
+* [Micro Frontend IA NLP React](#micro-frontend-ia-nlp-react-)
 
   <div align="left">
     <img width="20" height="20" src="doc/assets/icons/frontend/png/html.png" />
@@ -75,7 +75,7 @@ Central repository for web application projects focused on frontend development,
     <img width="20" height="20" src="doc/assets/icons/devops/png/git.png" />
   </div>
 
-* [Microelectronics Management SpringBoot](#microelectronics-management-springboot-)
+* [Microelectronics Management Spring Boot](#microelectronics-management-spring-boot-)
 
   <div align="left">
     <img width="24" height="24" src="doc/assets/icons/backend/java/png/java.png" />
@@ -91,7 +91,7 @@ Central repository for web application projects focused on frontend development,
     <img width="20" height="20" src="doc/assets/icons/database/png/oracle.png" />
   </div>
 
-* [MicroFrontEnd Microelectronics React](#microfrontend-microelectronics-react-)
+* [Micro Frontend Microelectronics React](#micro-frontend-microelectronics-react-)
 
   <div align="left">
     <img width="24" height="24" src="doc/assets/icons/backend/java/png/java.png" />
@@ -108,7 +108,7 @@ Central repository for web application projects focused on frontend development,
     <img width="20" height="20" src="doc/assets/icons/database/png/oracle.png" />
   </div>
 
-* [Micro FrontEnd App for Supermarket Products](#micro-frontend-app-for-supermarket-products-)
+* [Micro Frontend Supermarket Products](#micro-frontend-supermarket-products-)
 
   <div align="left">
     <img width="24" height="24" src="doc/assets/icons/backend/java/png/java.png" />
@@ -124,7 +124,7 @@ Central repository for web application projects focused on frontend development,
     <img width="20" height="20" src="doc/assets/icons/database/png/postgres.png" />
   </div>
 
-* [ElectroThings Angular SpringBoot](#electrothings-angular-springboot-)
+* [ElectroThings Angular Spring Boot](#electrothings-angular-spring-boot-)
 
   <div align="left">
     <img width="24" height="24" src="doc/assets/icons/backend/java/png/java.png" />
@@ -235,7 +235,7 @@ Central repository for web application projects focused on frontend development,
 
 <div align="center">
 
-### MicroFrontEnd IA NLP React [🔝](#index-)
+### Micro Frontend IA NLP React [🔝](#index-)
 
 <a href="https://github.com/andresWeitzel/Microfront_IA-NLP_React" target="_blank">
   <img src="https://github.com/andresWeitzel/Microfront_IA-NLP_React/blob/master/doc/inicio01.png" >
@@ -281,7 +281,7 @@ Central repository for web application projects focused on frontend development,
 
 <div align="center">
 
-### Microelectronics Management SpringBoot [🔝](#index-)
+### Microelectronics Management Spring Boot [🔝](#index-)
 
 <a href="https://github.com/andresWeitzel/AppGestionMicroelectronica_SpringBoot" target="_blank">
   <img src="https://github.com/andresWeitzel/AppGestionMicroelectronica_SpringBoot/blob/master/doc/inicio/inicioComponentes.png" >
@@ -336,7 +336,7 @@ Central repository for web application projects focused on frontend development,
 
 <div align="center">
 
-### MicroFrontEnd Microelectronics React [🔝](#index-)
+### Micro Frontend Microelectronics React [🔝](#index-)
 
 <a href="https://github.com/andresWeitzel/App_MicroFrontEnd_MicroElectr_React" target="_blank">
   <img src="https://github.com/andresWeitzel/App_MicroFrontEnd_MicroElectr_React/blob/master/doc/Captura%20de%20pantalla%20(901).png" >
@@ -389,11 +389,11 @@ Central repository for web application projects focused on frontend development,
 <br>
 
 
-<!------START Micro FrontEnd App for Supermarket Products------>
+<!------START Micro Frontend Supermarket Products------>
 
 <div align="center">
 
-### Micro FrontEnd App for Supermarket Products [🔝](#index-)
+### Micro Frontend Supermarket Products [🔝](#index-)
 
 <a href="https://github.com/andresWeitzel/App_MicroFrontEnd_Productos_SpringBoot_SpringSecurity_PostgreSQL" target="_blank">
   <img src="https://github.com/andresWeitzel/App_MicroFrontEnd_Productos_SpringBoot_SpringSecurity_PostgreSQL/blob/master/doc/list-products/listProducts.png" >
@@ -434,7 +434,7 @@ Central repository for web application projects focused on frontend development,
 
 </div>
 
-<!------END Micro FrontEnd App for Supermarket Products------->
+<!------END Micro Frontend Supermarket Products------->
 
 
 <br>
@@ -449,7 +449,7 @@ Central repository for web application projects focused on frontend development,
 
 <div align="center">
 
-### ElectroThings Angular SpringBoot [🔝](#index-)
+### ElectroThings Angular Spring Boot [🔝](#index-)
 
 <a href="https://github.com/andresWeitzel/AppElectroThings_Angular_Bootstrap_SpringBoot_MongoDB" target="_blank">
   <img src="https://github.com/andresWeitzel/AppElectroThings_Angular_Bootstrap_SpringBoot_MongoDB/blob/master/doc/listado/listado01.png" >
