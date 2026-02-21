@@ -31,16 +31,15 @@
  ###  Stack implementado
   
  <div style="display: inline-block;">
-   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/html5.png" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/css3.png" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/scss.png" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/bootstrap.png" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/angular.png" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/angularMaterial.png" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/high.png" />
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2104/PNG/512/analytics_icon_129492.png" />
-   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/vsc.png" />
-  <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
+   <img width="40" height="40" src="./doc/assets/icons/frontend/svg/html.svg" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/css.svg" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/scss.svg" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/bootstrap.svg" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/angular.svg" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/angular-material.svg" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/highchart.svg" />
+   <img width="40" height="40" src="./doc/assets/icons/devops/svg/vsc.svg" />
+  <img width="44" height="44" src="./doc/assets/icons/devops/svg/git.svg" />
  </div>
  </div>
  <!------Fin Portfolio Java------>  
@@ -76,13 +75,13 @@
  ###  Stack implementado
    
  <div style="display: inline-block;">
-   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/html5.png" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/css3.png" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/scss.png" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/bootstrap.png" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/reactJs.png" />
-   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/vsc.png" />
-  <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
+   <img width="40" height="40" src="./doc/assets/icons/frontend/svg/html.svg" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/css.svg" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/scss.svg" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/bootstrap.svg" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/react-js.svg" />
+   <img width="40" height="40" src="./doc/assets/icons/devops/svg/vsc.svg" />
+  <img width="44" height="44" src="./doc/assets/icons/devops/svg/git.svg" />
  </div>
  </div>
  <!------Fin Microfront GPT-J-6B------>  
@@ -119,23 +118,22 @@
 
  ###  Stack implementado
  <div style="display: inline-block;">
-   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/html5.png" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/css3.png" />  
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/bootstrap.png" />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-     <img width="45" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/java.png" />
-  <img width="40" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img width="40" height="38" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/hibernate.png" />
-   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" />
-   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2104/PNG/512/api_icon_129131.png" />
-   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" />
-  <img width="45" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/maven.png" />
-  <img width="47" height="50" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/lombok.png" />
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2104/PNG/512/analytics_icon_129492.png" />
-  <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/sts.png" />
-  <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
-   <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/sqldeveloper.png" />
-  <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/oracle.png" />
+   <img width="40" height="40" src="./doc/assets/icons/frontend/svg/html.svg" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/css.svg" />  
+  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/bootstrap.svg" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/js.svg" />
+     <img width="45" height="45" src="./doc/assets/icons/backend/java/svg/java.svg" />
+  <img width="40" height="38" src="./doc/assets/icons/backend/java/svg/spring-boot.svg" />
+  <img width="40" height="38" src="./doc/assets/icons/backend/java/svg/hibernate.svg" />
+   <img width="40" height="40" src="./doc/assets/icons/devops/svg/openapi.svg" />
+   <img width="40" height="40" src="./doc/assets/icons/devops/svg/postman.svg" />
+  <img width="45" height="44" src="./doc/assets/icons/devops/svg/maven.svg" />
+  <img width="47" height="50" src="./doc/assets/icons/backend/java/svg/lombok.svg" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/highchart.svg" />
+  <img width="44" height="44" src="./doc/assets/icons/backend/java/svg/sts.svg" />
+  <img width="44" height="44" src="./doc/assets/icons/devops/svg/git.svg" />
+   <img width="44" height="44" src="./doc/assets/icons/database/svg/sql-developer.svg" />
+  <img width="44" height="44" src="./doc/assets/icons/database/svg/oracle.svg" />
  </div>
  </div>
  
@@ -173,25 +171,24 @@
 
  ###  Stack implementado
  <div style="display: inline-block;">
-   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/html5.png" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/css3.png" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/scss.png" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/bootstrap.png" />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/reactJs.png" />
-  <img width="45" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/java.png" />
-  <img width="40" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img width="40" height="38" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/hibernate.png" />
-   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" />
-   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2104/PNG/512/api_icon_129131.png" />
-   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" />
-  <img width="45" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/maven.png" />
-  <img width="47" height="50" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/lombok.png" />
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2104/PNG/512/analytics_icon_129492.png" />
-  <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/sts.png" />
-  <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
-   <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/sqldeveloper.png" />
-  <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/oracle.png" />
+   <img width="40" height="40" src="./doc/assets/icons/frontend/svg/html.svg" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/css.svg" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/scss.svg" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/bootstrap.svg" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/js.svg" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/react-js.svg" />
+  <img width="45" height="45" src="./doc/assets/icons/backend/java/svg/java.svg" />
+  <img width="40" height="38" src="./doc/assets/icons/backend/java/svg/spring-boot.svg" />
+  <img width="40" height="38" src="./doc/assets/icons/backend/java/svg/hibernate.svg" />
+   <img width="40" height="40" src="./doc/assets/icons/devops/svg/openapi.svg" />
+   <img width="40" height="40" src="./doc/assets/icons/devops/svg/postman.svg" />
+  <img width="45" height="44" src="./doc/assets/icons/devops/svg/maven.svg" />
+  <img width="47" height="50" src="./doc/assets/icons/backend/java/svg/lombok.svg" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/highchart.svg" />
+  <img width="44" height="44" src="./doc/assets/icons/backend/java/svg/sts.svg" />
+  <img width="44" height="44" src="./doc/assets/icons/devops/svg/git.svg" />
+   <img width="44" height="44" src="./doc/assets/icons/database/svg/sql-developer.svg" />
+  <img width="44" height="44" src="./doc/assets/icons/database/svg/oracle.svg" />
  </div>
  </div>
  <!----- Fin Microfrontend micrelectronica React------> 
@@ -229,24 +226,23 @@
   
  ###  Stack implementado 
  <div style="display: inline-block;">
-   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/html5.png" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/css3.png" />  
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/bootstrap.png" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/angular.png" />
-     <img width="45" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/java.png" />
-  <img width="40" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img width="40" height="38" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/hibernate.png" />
-   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" />
-   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2104/PNG/512/api_icon_129131.png" />
-   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/postman.png" />
-    <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/log4j.png" />
-  <img width="45" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/maven.png" />
-  <img width="47" height="50" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/lombok.png" />
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2104/PNG/512/analytics_icon_129492.png" />
-  <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/sts.png" />
-  <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
-   <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/postgres.png" />
-   <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/pgadmin.png" />
+   <img width="40" height="40" src="./doc/assets/icons/frontend/svg/html.svg" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/css.svg" />  
+  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/bootstrap.svg" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/angular.svg" />
+     <img width="45" height="45" src="./doc/assets/icons/backend/java/svg/java.svg" />
+  <img width="40" height="38" src="./doc/assets/icons/backend/java/svg/spring-boot.svg" />
+  <img width="40" height="38" src="./doc/assets/icons/backend/java/svg/hibernate.svg" />
+   <img width="40" height="40" src="./doc/assets/icons/devops/svg/openapi.svg" />
+   <img width="40" height="40" src="./doc/assets/icons/devops/svg/postman.svg" />
+    <img width="40" height="40" src="./doc/assets/icons/backend/java/svg/log-four-j.svg" />
+  <img width="45" height="44" src="./doc/assets/icons/devops/svg/maven.svg" />
+  <img width="47" height="50" src="./doc/assets/icons/backend/java/svg/lombok.svg" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/highchart.svg" />
+  <img width="44" height="44" src="./doc/assets/icons/backend/java/svg/sts.svg" />
+  <img width="44" height="44" src="./doc/assets/icons/devops/svg/git.svg" />
+   <img width="44" height="44" src="./doc/assets/icons/database/svg/postgres.svg" />
+   <img width="44" height="44" src="./doc/assets/icons/database/svg/pg-admin.svg" />
  </div>
  </div>
   
@@ -287,23 +283,22 @@
    
  ###  Stack implementado
  <div style="display: inline-block;">
-   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/html5.png" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/css3.png" />  
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/bootstrap.png" />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-   <img width="45" height="45" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/java.png" />
-  <img width="40" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img width="40" height="38" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/hibernate.png" />
-   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" />
-   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2104/PNG/512/api_icon_129131.png" />
-   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" />
-  <img width="45" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/maven.png" />
-  <img width="47" height="50" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/lombok.png" />
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2104/PNG/512/analytics_icon_129492.png" />
-  <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/sts.png" />
-  <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/back/git.png" />
-   <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/sqldeveloper.png" />
-  <img width="44" height="44" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/database/oracle.png" />
+   <img width="40" height="40" src="./doc/assets/icons/frontend/svg/html.svg" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/css.svg" />  
+  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/bootstrap.svg" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/js.svg" />
+   <img width="45" height="45" src="./doc/assets/icons/backend/java/svg/java.svg" />
+  <img width="40" height="38" src="./doc/assets/icons/backend/java/svg/spring-boot.svg" />
+  <img width="40" height="38" src="./doc/assets/icons/backend/java/svg/hibernate.svg" />
+   <img width="40" height="40" src="./doc/assets/icons/devops/svg/openapi.svg" />
+   <img width="40" height="40" src="./doc/assets/icons/devops/svg/postman.svg" />
+  <img width="45" height="44" src="./doc/assets/icons/devops/svg/maven.svg" />
+  <img width="47" height="50" src="./doc/assets/icons/backend/java/svg/lombok.svg" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/highchart.svg" />
+  <img width="44" height="44" src="./doc/assets/icons/backend/java/svg/sts.svg" />
+  <img width="44" height="44" src="./doc/assets/icons/devops/svg/git.svg" />
+   <img width="44" height="44" src="./doc/assets/icons/database/svg/sql-developer.svg" />
+  <img width="44" height="44" src="./doc/assets/icons/database/svg/oracle.svg" />
  </div>
  </div>
   
@@ -337,17 +332,17 @@
   
  ###  Stack implementado
  <div style="display: inline-block;">
-    <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/html5.png" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/css3.png" />  
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/bootstrap.png" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/angular.png" />
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/netbeans_94416.png" />
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" />
+    <img width="40" height="40" src="./doc/assets/icons/frontend/svg/html.svg" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/css.svg" />  
+  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/bootstrap.svg" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/angular.svg" />
+  <img width="40" height="40" src="./doc/assets/icons/backend/java/svg/java.svg" />
+  <img width="40" height="40" src="./doc/assets/icons/devops/svg/maven.svg" />
+  <img width="40" height="40" src="./doc/assets/icons/devops/svg/vsc.svg" />
+  <img width="40" height="40" src="./doc/assets/icons/backend/java/svg/netbeans.svg" />
+  <img width="40" height="40" src="./doc/assets/icons/database/svg/mysql.svg" />
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/xampp_94513.png" />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img width="40" height="40" src="./doc/assets/icons/devops/svg/git.svg" />
  </div>
  </div>
 
@@ -383,14 +378,14 @@
    
  ###  Stack implementado  
  <div style="display: inline-block;">
-   <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/html5.png" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/css3.png" />  
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/bootstrap.png" />
-  <img width="40" height="40" src="https://github.com/andresWeitzel/Graphics/blob/master/GithubReadme/front/angular.png" />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+   <img width="40" height="40" src="./doc/assets/icons/frontend/svg/html.svg" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/css.svg" />  
+  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/bootstrap.svg" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/angular.svg" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/js.svg" />
+  <img width="40" height="40" src="./doc/assets/icons/frontend/svg/angular.svg" />
+  <img width="40" height="40" src="./doc/assets/icons/devops/svg/git.svg" />
+  <img width="40" height="40" src="./doc/assets/icons/devops/svg/vsc.svg" />
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_netlify_icon_130354.png" />
  </div>
  </div>
