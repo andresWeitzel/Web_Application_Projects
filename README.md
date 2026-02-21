@@ -49,7 +49,7 @@ Central repository for web application projects focused on frontend development,
 
 #### 🗂️ Projects
 
-* [Portfolio Software Developer](#portfolio-software-developer--)
+* [Portfolio Software Developer](#portfolio-software-developer-)
 
   <div align="left">
     <img width="20" height="20" src="doc/assets/icons/frontend/png/html.png" />
@@ -63,7 +63,7 @@ Central repository for web application projects focused on frontend development,
     <img width="20" height="20" src="doc/assets/icons/devops/png/git.png" />
   </div>
 
-* [MicroFrontEnd IA NLP React](#microfrontend-ia-nlp-react--)
+* [MicroFrontEnd IA NLP React](#microfrontend-ia-nlp-react-)
 
   <div align="left">
     <img width="20" height="20" src="doc/assets/icons/frontend/png/html.png" />
@@ -75,7 +75,7 @@ Central repository for web application projects focused on frontend development,
     <img width="20" height="20" src="doc/assets/icons/devops/png/git.png" />
   </div>
 
-* [Microelectronics Management SpringBoot](#microelectronics-management-springboot--)
+* [Microelectronics Management SpringBoot](#microelectronics-management-springboot-)
 
   <div align="left">
     <img width="24" height="24" src="doc/assets/icons/backend/java/png/java.png" />
@@ -91,7 +91,7 @@ Central repository for web application projects focused on frontend development,
     <img width="20" height="20" src="doc/assets/icons/database/png/oracle.png" />
   </div>
 
-* [MicroFrontEnd Microelectronics React](#microfrontend-microelectronics-react--)
+* [MicroFrontEnd Microelectronics React](#microfrontend-microelectronics-react-)
 
   <div align="left">
     <img width="24" height="24" src="doc/assets/icons/backend/java/png/java.png" />
@@ -108,7 +108,7 @@ Central repository for web application projects focused on frontend development,
     <img width="20" height="20" src="doc/assets/icons/database/png/oracle.png" />
   </div>
 
-* [Micro FrontEnd App for Supermarket Products](#micro-frontend-app-for-supermarket-products--)
+* [Micro FrontEnd App for Supermarket Products](#micro-frontend-app-for-supermarket-products-)
 
   <div align="left">
     <img width="24" height="24" src="doc/assets/icons/backend/java/png/java.png" />
@@ -124,7 +124,7 @@ Central repository for web application projects focused on frontend development,
     <img width="20" height="20" src="doc/assets/icons/database/png/postgres.png" />
   </div>
 
-* [ElectroThings Angular SpringBoot](#electrothings-angular-springboot--)
+* [ElectroThings Angular SpringBoot](#electrothings-angular-springboot-)
 
   <div align="left">
     <img width="24" height="24" src="doc/assets/icons/backend/java/png/java.png" />
@@ -140,7 +140,7 @@ Central repository for web application projects focused on frontend development,
     <img width="20" height="20" src="doc/assets/icons/database/png/oracle.png" />
   </div>
 
-* [IoT Products JSP](#iot-products-jsp--)
+* [IoT Products JSP](#iot-products-jsp-)
 
   <div align="left">
     <img width="24" height="24" src="doc/assets/icons/backend/java/png/java.png" />
@@ -154,7 +154,7 @@ Central repository for web application projects focused on frontend development,
     <img width="20" height="20" src="doc/assets/icons/devops/png/git.png" />
   </div>
 
-* [Gender Violence Awareness Angular](#gender-violence-awareness-angular--)
+* [Gender Violence Awareness Angular](#gender-violence-awareness-angular-)
 
   <div align="left">
     <img width="20" height="20" src="doc/assets/icons/frontend/png/html.png" />
