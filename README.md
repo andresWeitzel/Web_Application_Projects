@@ -16,7 +16,7 @@
 
 <div align="center">
 
-## <img width="40" height="30" src="./doc/assets/gifs/web-app.gif" /> Web Applications
+## <img width="58" height="58" src="./doc/assets/gifs/web-app.gif" /> Web Applications
 
 </div>
 
