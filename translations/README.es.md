@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="../doc/assets/img/web-app.jpg" >
+<img src="../doc/assets/img/web-app.png" >
 </div>
 
 <br>
@@ -16,7 +16,7 @@
 
 <div align="center">
 
-## <img width="58" height="58" src="../doc/assets/gifs/web-app.gif" /> Aplicaciones Web
+## <img width="48" height="48" src="../doc/assets/gifs/web-app.gif" /> Aplicaciones Web
 
 </div>
 
