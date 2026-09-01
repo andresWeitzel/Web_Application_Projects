@@ -51,7 +51,7 @@ Las implementaciones abarcan desde portafolios profesionales y micro frontends c
 
 #### 🗂️ Proyectos
 
-* [Portfolio Software Developer](#portfolio-software-developer-)
+* [Portfolio Software Developer ![status-completed](./doc/assets/icons/badges/status-completed.svg)](#portfolio-software-developer-)
 
   <div align="left">
     <img width="20" height="20" src="doc/assets/icons/frontend/png/html.png" />
@@ -63,7 +63,7 @@ Las implementaciones abarcan desde portafolios profesionales y micro frontends c
     <img width="20" height="20" src="doc/assets/icons/frontend/png/highchart.png" />
   </div>
 
-* [Micro Frontend IA NLP React](#micro-frontend-ia-nlp-react-)
+* [Micro Frontend IA NLP React ![status-completed](./doc/assets/icons/badges/status-completed.svg)](#micro-frontend-ia-nlp-react-)
 
   <div align="left">
     <img width="20" height="20" src="doc/assets/icons/frontend/png/html.png" />
@@ -75,7 +75,7 @@ Las implementaciones abarcan desde portafolios profesionales y micro frontends c
     <img width="22" height="22" src="doc/assets/icons/devops/png/git.png" />
   </div>
 
-* [Gestión de Microelectrónica Spring Boot](#gestión-de-microelectrónica-spring-boot-)
+* [Gestión de Microelectrónica Spring Boot ![status-completed](./doc/assets/icons/badges/status-completed.svg)](#gestión-de-microelectrónica-spring-boot-)
 
   <div align="left">
     <img width="24" height="24" src="doc/assets/icons/backend/java/png/java.png" />
@@ -87,7 +87,7 @@ Las implementaciones abarcan desde portafolios profesionales y micro frontends c
     <img width="20" height="20" src="doc/assets/icons/database/png/oracle.png" />
   </div>
 
-* [Micro Frontend Microelectrónica React](#micro-frontend-microelectrónica-react-)
+* [Micro Frontend Microelectrónica React ![status-completed](./doc/assets/icons/badges/status-completed.svg)](#micro-frontend-microelectrónica-react-)
 
   <div align="left">
     <img width="24" height="24" src="doc/assets/icons/backend/java/png/java.png" />
@@ -99,7 +99,7 @@ Las implementaciones abarcan desde portafolios profesionales y micro frontends c
     <img width="20" height="20" src="doc/assets/icons/frontend/png/react-js.png" />
   </div>
 
-* [Micro Frontend Productos de Supermercado](#micro-frontend-productos-de-supermercado-)
+* [Micro Frontend Productos de Supermercado ![status-completed](./doc/assets/icons/badges/status-completed.svg)](#micro-frontend-productos-de-supermercado-)
 
   <div align="left">
     <img width="24" height="24" src="doc/assets/icons/backend/java/png/java.png" />
@@ -111,7 +111,7 @@ Las implementaciones abarcan desde portafolios profesionales y micro frontends c
     <img width="20" height="20" src="doc/assets/icons/database/png/postgres.png" />
   </div>
 
-* [ElectroThings Angular Spring Boot](#electrothings-angular-spring-boot-)
+* [ElectroThings Angular Spring Boot ![status-completed](./doc/assets/icons/badges/status-completed.svg)](#electrothings-angular-spring-boot-)
 
   <div align="left">
     <img width="24" height="24" src="doc/assets/icons/backend/java/png/java.png" />
@@ -123,7 +123,7 @@ Las implementaciones abarcan desde portafolios profesionales y micro frontends c
     <img width="20" height="20" src="doc/assets/icons/database/png/oracle.png" />
   </div>
 
-* [Productos IoT JSP](#productos-iot-jsp-)
+* [Productos IoT JSP ![status-completed](./doc/assets/icons/badges/status-completed.svg)](#productos-iot-jsp-)
 
   <div align="left">
     <img width="24" height="24" src="doc/assets/icons/backend/java/png/java.png" />
@@ -155,10 +155,10 @@ Las implementaciones abarcan desde portafolios profesionales y micro frontends c
 
 <div align="center">
 
-### Portfolio Software Developer
+### Portfolio Software Developer ![status-completed](./doc/assets/icons/badges/status-completed.svg)
 
-<a href="https://github.com/andresWeitzel/Portfolio_Software_Developer" target="_blank">
-  <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/Portafolio/Captura%20de%20pantalla%20(926).png" >
+<a href="https://andres-weitzel-dev.vercel.app/" target="_blank">
+  <img src="./doc/assets/img/portfolio-software-developer.png" >
 </a>
 
   <div align="right">
@@ -176,7 +176,7 @@ Las implementaciones abarcan desde portafolios profesionales y micro frontends c
 ### Detalles
 
 
-<a href="https://github.com/andresWeitzel/Portfolio_Software_Developer" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.png" alt="Código" height="30" border="0" /></a><!-- --><a href="https://www.youtube.com/playlist?list=PLCl11UFjHurCQxO9rYKlL2E3bZWTLC_Kr" target="_blank" rel="noopener noreferrer" title="Video en YouTube"><img src="./doc/assets/icons/detail-actions/video-pill.png" alt="Video" height="30" border="0" /></a>
+<a href="https://andres-weitzel-dev.vercel.app/" target="_blank" rel="noopener noreferrer" title="Ver en vivo"><img src="./doc/assets/icons/detail-actions/live-pill.png" alt="Live" height="30" border="0" /></a><!-- --><a href="https://www.youtube.com/playlist?list=PLCl11UFjHurCQxO9rYKlL2E3bZWTLC_Kr" target="_blank" rel="noopener noreferrer" title="Video en YouTube"><img src="./doc/assets/icons/detail-actions/video-pill.png" alt="Video" height="30" border="0" /></a>
 
 </div>
 
@@ -194,7 +194,7 @@ Las implementaciones abarcan desde portafolios profesionales y micro frontends c
 
 <div align="center">
 
-### Micro Frontend IA NLP React
+### Micro Frontend IA NLP React ![status-completed](./doc/assets/icons/badges/status-completed.svg)
 
 <a href="https://github.com/andresWeitzel/Microfront_IA-NLP_React" target="_blank">
   <img src="https://github.com/andresWeitzel/Microfront_IA-NLP_React/blob/master/doc/inicio01.png" >
@@ -233,7 +233,7 @@ Las implementaciones abarcan desde portafolios profesionales y micro frontends c
 
 <div align="center">
 
-### Gestión de Microelectrónica Spring Boot
+### Gestión de Microelectrónica Spring Boot ![status-completed](./doc/assets/icons/badges/status-completed.svg)
 
 <a href="https://github.com/andresWeitzel/AppGestionMicroelectronica_SpringBoot" target="_blank">
   <img src="https://github.com/andresWeitzel/AppGestionMicroelectronica_SpringBoot/blob/master/doc/inicio/inicioComponentes.png" >
@@ -272,7 +272,7 @@ Las implementaciones abarcan desde portafolios profesionales y micro frontends c
 
 <div align="center">
 
-### Micro Frontend Microelectrónica React
+### Micro Frontend Microelectrónica React ![status-completed](./doc/assets/icons/badges/status-completed.svg)
 
 <a href="https://github.com/andresWeitzel/App_MicroFrontEnd_MicroElectr_React" target="_blank">
   <img src="https://github.com/andresWeitzel/App_MicroFrontEnd_MicroElectr_React/blob/master/doc/Captura%20de%20pantalla%20(901).png" >
@@ -311,7 +311,7 @@ Las implementaciones abarcan desde portafolios profesionales y micro frontends c
 
 <div align="center">
 
-### Micro Frontend Productos de Supermercado
+### Micro Frontend Productos de Supermercado ![status-completed](./doc/assets/icons/badges/status-completed.svg)
 
 <a href="https://github.com/andresWeitzel/App_MicroFrontEnd_Productos_SpringBoot_SpringSecurity_PostgreSQL" target="_blank">
   <img src="https://github.com/andresWeitzel/App_MicroFrontEnd_Productos_SpringBoot_SpringSecurity_PostgreSQL/blob/master/doc/list-products/listProducts.png" >
@@ -350,7 +350,7 @@ Las implementaciones abarcan desde portafolios profesionales y micro frontends c
 
 <div align="center">
 
-### ElectroThings Angular Spring Boot
+### ElectroThings Angular Spring Boot ![status-completed](./doc/assets/icons/badges/status-completed.svg)
 
 <a href="https://github.com/andresWeitzel/AppElectroThings_Angular_Bootstrap_SpringBoot_MongoDB" target="_blank">
   <img src="https://github.com/andresWeitzel/AppElectroThings_Angular_Bootstrap_SpringBoot_MongoDB/blob/master/doc/listado/listado01.png" >
@@ -389,7 +389,7 @@ Las implementaciones abarcan desde portafolios profesionales y micro frontends c
 
 <div align="center">
 
-### Productos IoT JSP
+### Productos IoT JSP ![status-completed](./doc/assets/icons/badges/status-completed.svg)
 
 <a href="https://github.com/andresWeitzel/IotProductosJsp_app" target="_blank">
   <img src="https://raw.githubusercontent.com/andresWeitzel/Graphics/main/Proyectos/IotProductosJsp_app/Captura%20de%20pantalla%20(317).png" >
