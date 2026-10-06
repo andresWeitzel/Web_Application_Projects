@@ -201,7 +201,7 @@ The implementations range from professional portfolios, business websites with a
 ### Details
 
 
-<a href="https://andres-weitzel-dev.vercel.app/" target="_blank" rel="noopener noreferrer" title="View live"><img src="../doc/assets/icons/detail-actions/live-pill.png" alt="Live" height="30" border="0" /></a><!-- --><a href="https://www.youtube.com/playlist?list=PLCl11UFjHurCQxO9rYKlL2E3bZWTLC_Kr" target="_blank" rel="noopener noreferrer" title="YouTube video"><img src="../doc/assets/icons/detail-actions/video-pill.png" alt="Video" height="30" border="0" /></a>
+<a href="https://andres-weitzel-dev.vercel.app/" target="_blank" rel="noopener noreferrer" title="View live"><img src="../doc/assets/icons/detail-actions/live-pill.png" alt="Live" height="30" border="0" /></a>
 
 </div>
 
@@ -261,7 +261,7 @@ The implementations range from professional portfolios, business websites with a
 ### AutoApply ![status-active](../doc/assets/icons/badges/status-active.svg)
 
 <a href="https://autoapply-demo-1tjt.onrender.com/" target="_blank">
-  <img src="../doc/assets/img/autoapply.jpg" >
+  <img src="../doc/assets/img/autoapply.png" >
 </a>
 
   <div align="right">
