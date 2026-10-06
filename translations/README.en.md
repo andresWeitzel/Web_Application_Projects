@@ -24,17 +24,18 @@
 
 Central repository of web applications focused on designing modern, responsive interfaces, integrating frontend and backend layers in fullstack solutions, and exploring micro-frontend architectures to scale digital products.
 
-The implementations range from professional portfolios and micro frontends with React or Angular to microelectronics management systems, supermarket product catalogs, electronic product platforms with Spring Boot, and IoT applications with JSP.
+The implementations range from professional portfolios, business websites with a quote builder and a projects map, and job-application autofill tools with Playwright, to micro frontends with React or Angular, microelectronics management systems, supermarket product catalogs, electronic product platforms with Spring Boot, and IoT applications with JSP.
 
 <br>
 
- * Languages: Java, JavaScript, HTML5, CSS3, SCSS, others.
+ * Languages: Java, JavaScript, TypeScript, HTML5, CSS3, SCSS, others.
  * Frameworks: Angular, React, Spring Framework, Bootstrap, others.
  * Spring modules: Spring Boot, Spring MVC, Spring Data JPA, Spring Security, SpringFox, others.
  * ORM: JPA-Hibernate, others.
  * Databases: Oracle, PostgreSQL, MySQL, others.
- * Libraries: Lombok, Highcharts, GSAP, Angular Material, Log4j, others.
- * Tools: STS, VSC, Netbeans, Postman, Maven, Swagger UI, Git, PgAdmin, SQL Developer, others.
+ * Libraries: Lombok, Highcharts, GSAP, Angular Material, Leaflet, Playwright, Log4j, others.
+ * Tools: Vite, Node.js, npm, STS, VSC, Netbeans, Postman, Maven, Swagger UI, Git, PgAdmin, SQL Developer, others.
+ * Deployment: Vercel, Render, Cloudflare, others.
 
 <br>
 
@@ -42,14 +43,14 @@ The implementations range from professional portfolios and micro frontends with 
 
 <!------Start Index----->
 
-## Index ðŸ“œ
+## Index 📜
 
 <details>
  <summary> See </summary>
 
  <br>
 
-#### ðŸ—‚ï¸ Projects
+#### 🗂️ Projects
 
 * [Portfolio Software Developer ![status-completed](../doc/assets/icons/badges/status-completed.svg)](#portfolio-software-developer-)
 
@@ -61,6 +62,30 @@ The implementations range from professional portfolios and micro frontends with 
     <img width="20" height="20" src="../doc/assets/icons/frontend/png/angular.png" />
     <img width="20" height="20" src="../doc/assets/icons/frontend/png/angular-material.png" />
     <img width="20" height="20" src="../doc/assets/icons/frontend/png/highchart.png" />
+  </div>
+
+* [Enervolt Nova Electricidad ![status-active](../doc/assets/icons/badges/status-active.svg)](#enervolt-nova-electricidad-)
+
+  <div align="left">
+    <img width="20" height="20" src="../doc/assets/icons/frontend/png/react-js.png" />
+    <img width="20" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
+    <img width="20" height="20" src="../doc/assets/icons/frontend/png/vite.png" />
+    <img width="20" height="20" src="../doc/assets/icons/frontend/png/leaflet.png" />
+    <img width="20" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="20" height="20" src="../doc/assets/icons/devops/png/cloudflare.png" />
+    <img width="20" height="20" src="../doc/assets/icons/devops/png/vercel.png" />
+  </div>
+
+* [AutoApply ![status-active](../doc/assets/icons/badges/status-active.svg)](#autoapply-)
+
+  <div align="left">
+    <img width="20" height="20" src="../doc/assets/icons/frontend/png/react-js.png" />
+    <img width="20" height="20" src="../doc/assets/icons/frontend/png/vite.png" />
+    <img width="20" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="20" height="20" src="../doc/assets/icons/devops/png/playwright.png" />
+    <img width="20" height="20" src="../doc/assets/icons/devops/png/npm.png" />
+    <img width="22" height="22" src="../doc/assets/icons/devops/png/postman.png" />
+    <img width="22" height="22" src="../doc/assets/icons/devops/png/git.png" />
   </div>
 
 * [Micro Frontend IA NLP React ![status-completed](../doc/assets/icons/badges/status-completed.svg)](#micro-frontend-ia-nlp-react-)
@@ -145,7 +170,7 @@ The implementations range from professional portfolios and micro frontends with 
 
 <div align="center">
 
-## ðŸ—‚ï¸ Projects
+## 🗂️ Projects
 
 </div>
 
@@ -181,6 +206,84 @@ The implementations range from professional portfolios and micro frontends with 
 </div>
 
 <!------END Portfolio_Software_Developer------->
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<!------START Enervolt_Nova_Electricidad------>
+
+<div align="center">
+
+### Enervolt Nova Electricidad ![status-active](../doc/assets/icons/badges/status-active.svg)
+
+<a href="https://enervoltnova.com/electricidad/" target="_blank">
+  <img src="../doc/assets/img/enervolt-nova-electricidad.png" >
+</a>
+
+  <div align="right">
+    <img width="20" height="20" src="../doc/assets/icons/frontend/png/react-js.png" />
+    <img width="20" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/typescript.png" />
+    <img width="20" height="20" src="../doc/assets/icons/frontend/png/vite.png" />
+    <img width="20" height="20" src="../doc/assets/icons/frontend/png/leaflet.png" />
+    <img width="20" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="20" height="20" src="../doc/assets/icons/devops/png/cloudflare.png" />
+    <img width="20" height="20" src="../doc/assets/icons/devops/png/vercel.png" />
+  </div>
+
+<br>
+
+### Details
+
+
+<a href="https://enervoltnova.com/electricidad/" target="_blank" rel="noopener noreferrer" title="View live"><img src="../doc/assets/icons/detail-actions/live-pill.png" alt="Live" height="30" border="0" /></a><!-- --><a href="https://github.com/andresWeitzel/Enervolt_Nova_Electricidad_Doc" target="_blank" rel="noopener noreferrer" title="Code"><img src="../doc/assets/icons/detail-actions/code-pill.png" alt="Code" height="30" border="0" /></a>
+
+</div>
+
+<!------END Enervolt_Nova_Electricidad------->
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<!------START AutoApply------>
+
+<div align="center">
+
+### AutoApply ![status-active](../doc/assets/icons/badges/status-active.svg)
+
+<a href="https://autoapply-demo-1tjt.onrender.com/" target="_blank">
+  <img src="../doc/assets/img/autoapply.jpg" >
+</a>
+
+  <div align="right">
+    <img width="20" height="20" src="../doc/assets/icons/frontend/png/react-js.png" />
+    <img width="20" height="20" src="../doc/assets/icons/frontend/png/vite.png" />
+    <img width="20" height="20" src="../doc/assets/icons/backend/javascript-typescript/png/nodejs.png" />
+    <img width="20" height="20" src="../doc/assets/icons/devops/png/playwright.png" />
+    <img width="20" height="20" src="../doc/assets/icons/devops/png/npm.png" />
+    <img width="22" height="22" src="../doc/assets/icons/devops/png/postman.png" />
+    <img width="22" height="22" src="../doc/assets/icons/devops/png/git.png" />
+  </div>
+
+<br>
+
+### Details
+
+
+<a href="https://autoapply-demo-1tjt.onrender.com/" target="_blank" rel="noopener noreferrer" title="View live"><img src="../doc/assets/icons/detail-actions/live-pill.png" alt="Live" height="30" border="0" /></a><!-- --><a href="https://github.com/andresWeitzel/AutoApplyDoc" target="_blank" rel="noopener noreferrer" title="Code"><img src="../doc/assets/icons/detail-actions/code-pill.png" alt="Code" height="30" border="0" /></a>
+
+</div>
+
+<!------END AutoApply------->
 
 
 <br>
